@@ -1,1 +1,5 @@
 -e ../bedrock
+# FIXME: these should be installed by bedrock ...
+python-bitcoinrpc==1.0
+requests==2.22.0
+
